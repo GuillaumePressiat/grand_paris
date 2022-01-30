@@ -1,2 +1,3 @@
 # grand_paris
-ggplot2 workaround to plot Greater Paris area
+
+ggplot2 to plot Greater Paris area
